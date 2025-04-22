@@ -30,7 +30,7 @@ This platform provides a decentralized approach to digital voting by:
 
 ## 🗂️ Folder Layout
 
-e-voting/ 
+# E-voting/ 
     ├── contracts/ 
 # Smart contracts 
     ├── migrations/
